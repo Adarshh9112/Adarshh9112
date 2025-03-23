@@ -10,7 +10,7 @@
 ## 🚀 About Me
 <!-- I'm an Android Application developer... -->
 
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Management
 
 <!-- - 👯 I’m looking to collaborate on Google -->
 
